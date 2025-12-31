@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV16 奥林匹克
+http://192.168.2.128:50001/5000000008000023253/bestzb/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16 奥林匹克
+http://192.168.2.128:50001/1000000006000233001/ystenlive/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17 农业农村
+http://192.168.2.128:50001/1000000006000268004/ystenlive/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17 农业农村
+http://192.168.2.128:50001/1000000005000265015/ystenlive/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17 农业农村
+http://192.168.2.128:50001/1000000005000056836/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/6000000001000009954/wasusyt/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/1000000001000030159/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/5000000004000023002/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/1000000005000265025/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/5000000001000027288/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://192.168.2.128:50001/1000000001000020780/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/1000000001000001910/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/5000000011000031204/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/2000000002000000065/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/1000000005000265020/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/2000000003000000026/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
+http://192.168.2.128:50001/1000000001000028380/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卡酷少儿
+http://192.168.2.128:50001/7851974109718180595/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卡酷少儿
+http://192.168.2.128:50001/1000000002000002413/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卡酷少儿
+http://192.168.2.128:50001/6000000003000002709/wasusyt/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/6000000001000020451/wasusyt/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/1000000001000021288/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/5000000004000031556/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/1000000005000265027/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/5000000010000011502/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://192.168.2.128:50001/1000000001000017156/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://192.168.2.128:50001/1000000005000266005/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://192.168.2.128:50001/5000000006000040020/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+http://192.168.2.128:50001/5000000004000010584/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+http://192.168.2.128:50001/1000000005000265033/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+http://192.168.2.128:50001/5000000001000005829/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+http://192.168.2.128:50001/1000000002000009263/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://192.168.2.128:50001/5000000011000031121/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://192.168.2.128:50001/1000000001000013731/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://192.168.2.128:50001/5000000004000011671/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://192.168.2.128:50001/1000000001000001945/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://192.168.2.128:50001/1000000005000265022/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://192.168.2.128:50001/5000000001000008940/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://192.168.2.128:50001/1000000002000024033/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://192.168.2.128:50001/1000000002000014080/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://192.168.2.128:50001/1000000002000031451/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://192.168.2.128:50001/5000000006000040022/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海安多卫视
+http://192.168.2.128:50001/1000000005000266001/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海安多卫视
+http://192.168.2.128:50001/5000000006000022124/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://192.168.2.128:50001/1000000002000013359/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://192.168.2.128:50001/5000000006000040015/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://192.168.2.128:50001/1000000005000266006/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://192.168.2.128:50001/1000000002000004097/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+http://192.168.2.128:50001/2000000003000000013/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/6000000001000004134/wasusyt/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/1000000001000016568/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/5000000004000020424/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/1000000005000265019/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/5000000010000027763/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://192.168.2.128:50001/1000000001000012807/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://192.168.2.128:50001/1000000002000021220/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://192.168.2.128:50001/5000000006000040023/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西农林卫视
+http://192.168.2.128:50001/2000000003000000046/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西农林卫视
+http://192.168.2.128:50001/1000000005000266003/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://192.168.2.128:50001/1000000002000007495/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://192.168.2.128:50001/5000000006000040017/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海ICS外语
+http://192.168.2.128:50001/5000000010000030951/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海ICS外语
+http://192.168.2.128:50001/2000000002000000001/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海第一财经
+http://192.168.2.128:50001/5000000010000027146/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海第一财经
+http://192.168.2.128:50001/2000000002000000004/hnbblive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海东方财经
+http://192.168.2.128:50001/5000000007000010003/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",上海东方财经
+http://192.168.2.128:50001/2000000002000000090/hnbblive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频
+http://192.168.2.128:50001/3000000010000031669/FifastbLive/index.m3u8
+#EXTINF:-1 group-title="求索频道",求索动物
+http://192.168.2.128:50001/6000000002000010046/wasusyt/index.m3u8
